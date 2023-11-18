@@ -56,7 +56,7 @@ K_pd = -(lambda_1+lambda_2)/K_1;
 V_s0 = -(L_2/L_3);
 
 % IMU Port
-PORT = 5;
+PORT = 3;
 
 % Run Integral LQR claculations
 lqr_heli_3_10
